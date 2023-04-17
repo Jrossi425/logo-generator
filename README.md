@@ -9,6 +9,9 @@ N/A
 ## Usage
 by answering the questions asked in the terminal and creating a logo based on the prompts. 
 https://drive.google.com/file/d/1RlhA9cbdyCnXhUq9NA81C42URgzq19TZ/view
+![image](https://user-images.githubusercontent.com/123151991/232630103-a6c7e0f3-4b4b-4492-a937-8ab186276981.png)
+![image](https://user-images.githubusercontent.com/123151991/232630120-6caa99f6-28a2-4cec-a388-717e94cb3793.png)
+
 
 ## License
 This project uses MIT
